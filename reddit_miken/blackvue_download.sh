@@ -1,5 +1,10 @@
 #!/bin/sh
-
+# Reddit User miken79's linux shell script to download videos from wifi enabled BlackVue cameras.
+#
+#  https://www.reddit.com/r/Dashcam/comments/6ii3fe/downloading_from_blackvue_dr650s2ch_xpost/
+#
+########
+#
 # Get the list of files
 FILES=`curl -s http://10.99.77.1/blackvue_vod.cgi |grep "n:" |cut -c 11-32`
 
