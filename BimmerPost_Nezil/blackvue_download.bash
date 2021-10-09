@@ -1,4 +1,5 @@
 #!/bin/bash
+# source: https://f87.bimmerpost.com/forums/showthread.php?t=1440929
 
 echo
 

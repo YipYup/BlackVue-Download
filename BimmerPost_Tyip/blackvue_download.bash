@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# Source: https://f87.bimmerpost.com/forums/showpost.php?p=25652105&postcount=9
 
 # Script path
 scriptpath=/data/Video/Blackvue/Scripts/

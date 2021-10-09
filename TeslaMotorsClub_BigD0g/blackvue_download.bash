@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Source: https://teslamotorsclub.com/tmc/threads/blackvue-900-dashcam-video-script.116949/
 #################################################################################################
 #   This script is used to download blackvue dashcam files to the specified root storage directory.
 #   No warranty express or implied comes with this script, and improvements or bugs for this script
