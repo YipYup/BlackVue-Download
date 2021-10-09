@@ -1,7 +1,8 @@
 ###############################
 # Reddit_MikeN
 #
-#   Reddit User miken79's linux shell script to download videos from wifi enabled BlackVue cameras.
+#   Reddit User miken79
+# https://www.reddit.com/r/Dashcam/comments/6ii3fe/downloading_from_blackvue_dr650s2ch_xpost/
 # ##############################
 # TeslaMotorsClub-BigD0G
 #
