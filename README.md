@@ -1,8 +1,7 @@
 # BlackVue Download Scripts
 
 
-#####   A collection of scripts from various sources made public by their
-#####  authors.
+#####   A collection of scripts from various sources made public by their authors.
 
 
 
